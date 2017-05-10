@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+#Programming 1
+## Tyler Herron
 
 You can use the [editor on GitHub](https://github.com/7ty/Programming1Repository/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
